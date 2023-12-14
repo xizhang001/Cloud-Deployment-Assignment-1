@@ -27,16 +27,16 @@ The results from both simple and complex queries, which are designed to provide 
 ### Queries
 The `Queries` directory contains:
 
-- [Processing&Cleaning](./Queries/processing&cleaning.sql): Pig scripts for data cleaning.
+- [Processing&Cleaning](./Queries/Processing&Cleaning.pig): Pig scripts for data cleaning.
 
 - [Create_tables](./Queries/Create_tables.sql): SQL scripts for creating Hive tables from the cleaned data.
   
-- [Hive_Queries](./Queries/Hive_Queries): Contains all the SQL queries used for analysis. 
-  - [Complex_Queries](./Queries/Hive_Queries/Hive_complex_queries.sql)
-  - [Simple_Queries](./Queries/Hive_Queries/Hive_simple_queries.sql)
+- [Hive_Queries](./Queries): Contains all the SQL queries used for analysis. 
+  - [Complex_Queries](./Queries/Hive_complex_queries.sql)
+  - [Simple_Queries](./Queries/Hive_simple_queries.sql)
   
-- [Pig_Queries](./Queries/Pig_Queries): Pig scripts for both cleaning and analyzing data.
-  - [Simple_Queries](./Queries/Pig_Queries/Pig_queries.pig)
+- [Pig_Queries](./Queries): Pig scripts for both cleaning and analyzing data.
+  - [Simple_Queries](./Queries/Pig_queries.pig)
 
 ### Video
 
