@@ -35,7 +35,7 @@ The `Queries` directory contains:
   - [Complex_Queries](./Queries/Hive_complex_queries.sql)
   - [Simple_Queries](./Queries/Hive_simple_queries.sql)
   
-- [Pig_Queries](./Queries): Pig scripts for both cleaning and analyzing data.
+- [Pig_Queries](./Queries): Pig scripts for both cleaning and analysing data.
   - [Simple_Queries](./Queries/Pig_queries.pig)
 
 ### Video
