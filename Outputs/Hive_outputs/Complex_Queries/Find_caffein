@@ -1,0 +1,13 @@
+Beverage,Calories,Fat (g),Carb. (g),Fiber (g),Protein,Sodium,Caffeine (mg)
+Caffè Americano,,,,,,,150
+Caffè Americano,,,,,,,225
+Caffè Americano,,,,,,,300
+Caffè Americano,,,,,,,75
+Caffè Latte,190,7,19,0,13,170,150
+Caffè Latte,190,7,19,0,13,170,75
+Cappuccino,120,4,12,0,8,100,150
+Cappuccino,120,4,12,0,8,100,75
+Caramel Macchiato,250,7,35,0,10,150,150
+Caramel Macchiato,250,7,35,0,10,150,75
+Espresso,,,,,,,150
+Espresso,,,,,,,75
